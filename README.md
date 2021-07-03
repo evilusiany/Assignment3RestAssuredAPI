@@ -1,1 +1,1 @@
-# Assignment1Java for QA Engineer Bootcamp rest assured task
+# Assignment1Java for QA Engineer Bootcamp assignment 1 java task
